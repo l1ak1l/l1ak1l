@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+Muhammad+Ammar+Ali's+Profile!" alt="Typing SVG" />
 </div>
 
-<h2 align="center">NLP Engineer | Full Stack Developer | Data Analyst </h2>
+<h2 align="center">Gen AI Engineer | Full Stack Developer | Data Scientist </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ammar-ali-khan-872191249" target="_blank">
